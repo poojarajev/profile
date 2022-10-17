@@ -4,14 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Document</Pooja Rajeev>
 </head>
 <body>
-    <h1>Name</h1>
+    <h1>Pooja Rajeev</h1>
     <h3>About</h3>
-    <h4>Type About here</h4>
-    <img src="" alt="">
-    <img src="" alt="">
-    <img src="" alt="">
+    <h4>currently studying Bachelors of Technology in the field of electronics and communication from Govt. Model engineering college,Thrikkakkara.I am keen on learning coding and designing.</h4>
+    <img src="29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" alt="HTML,CSS ,JS">
+    <img src="ISO_C++_Logo.svg.png" alt="C++">
+    <img src="react.js-img.png" alt="react js">
 </body>
 </html>
